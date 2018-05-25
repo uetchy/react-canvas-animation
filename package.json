@@ -1,0 +1,19 @@
+{
+  "name": "react-canvas-animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
